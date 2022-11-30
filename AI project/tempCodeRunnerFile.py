@@ -1,2 +1,0 @@
-
-    return render_templat
